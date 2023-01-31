@@ -1,8 +1,7 @@
 
 START_MSG = """
-Hello <b>{}</b> ! I'm <b>Akinator(Unofficial)</b>.
-We can play a guessing game.
-Do <code>/play</code>
+مرحبآ <b>{}</b> ! I'm <b>المارد الازرق(Unofficial)</b>.
+واذا اردت اللعب ارسل <code>/play</code>
 """
 
 ME_MSG = """
@@ -18,8 +17,8 @@ ME_MSG = """
 <b>Total Questions :</b> <code>{}</code>
 """
 
-GITHUB_URL = "https://github.com/adenosinetp10"
-DEV_URL = "https://t.me/f22raptor_uwu"
+GITHUB_URL = "https://t.me/RRRJ6"
+DEV_URL = "Https://t.me/LLL7P"
 
 AKI_LANG_CODE = {
     'en': 'English',
@@ -42,8 +41,8 @@ AKI_LANG_CODE = {
 
 AKI_LANG_MSG = """
 Change Playing Language.
-<b>NOTE : This does not change the Bot language.</b>
-<b>Current Language :</b> <pre>{}</pre>
+<b>ملاحظه : آذا اردت تغيير لغة البوت.</b>
+<b>آرسل Language :</b> <pre>{}</pre>
 """
 
 CHILDMODE_MSG = """
