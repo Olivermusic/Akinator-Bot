@@ -4,8 +4,8 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 START_KEYBOARD = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Github', GITHUB_URL),
-            InlineKeyboardButton('Developer', DEV_URL)   
+            InlineKeyboardButton('قنـآة المطــور', GITHUB_URL),
+            InlineKeyboardButton('المطــور', DEV_URL)   
         ]
     ]
 )
