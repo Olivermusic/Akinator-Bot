@@ -1,7 +1,7 @@
 
 START_MSG = """
-مرحبآ <b>{}</b> ! I'm <b>المارد الازرق(Unofficial)</b>.
-واذا اردت اللعب ارسل <code>/play</code>
+مرحبآ <b>{}</b> ! آنا بوت <b>المارد الازرق
+</b>. آرسل  <code>/play</code> للعب
 """
 
 ME_MSG = """
@@ -41,8 +41,8 @@ AKI_LANG_CODE = {
 
 AKI_LANG_MSG = """
 Change Playing Language.
-<b>ملاحظه : آذا اردت تغيير لغة البوت.</b>
-<b>آرسل Language :</b> <pre>{}</pre>
+<b> ملاحظه : آذا اردت تغيير لغة البوت آرسل /Language .</b>
+<b>آختـر اللغـة:</b> <pre>{}</pre>
 """
 
 CHILDMODE_MSG = """
