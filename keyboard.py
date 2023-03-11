@@ -14,7 +14,7 @@ START_KEYBOARD = InlineKeyboardMarkup(
 AKI_LANG_BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(AKI_LANG_CODE['en'], callback_data='aki_set_lang_en'),
+            InlineKeyboardButton(AKI_LANG_CODE['ar'], callback_data='aki_set_lang_ar'),
             InlineKeyboardButton(AKI_LANG_CODE['ar'], callback_data='aki_set_lang_ar'),
             InlineKeyboardButton(AKI_LANG_CODE['cn'], callback_data='aki_set_lang_cn'),
             InlineKeyboardButton(AKI_LANG_CODE['de'], callback_data='aki_set_lang_de')
