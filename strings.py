@@ -21,8 +21,8 @@ GITHUB_URL = "https://t.me/RRRJ6"
 DEV_URL = "Https://t.me/LLL7P"
 
 AKI_LANG_CODE = {
-    'en': 'English',
     'ar': 'Arabic',
+    'en': 'English',
     'cn': 'Chinese',
     'de': 'German',
     'es': 'Spanish',
@@ -42,7 +42,7 @@ AKI_LANG_CODE = {
 AKI_LANG_MSG = """
 Change Playing Language.
 <b> ملاحظه : آذا اردت تغيير لغة البوت آرسل /Language .</b>
-<b>آختـر اللغـة:</b> <pre>{}</pre>
+<b> آختـر اللغـة العربية:</b> <pre>{}</pre>
 """
 
 CHILDMODE_MSG = """
