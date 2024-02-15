@@ -17,7 +17,7 @@ ME_MSG = """
 <b>Total Questions :</b> <code>{}</code>
 """
 
-GITHUB_URL = "https://t.me/RRRJ6"
+GITHUB_URL = "https://t.me/AAAWY"
 DEV_URL = "Https://t.me/LLL7P"
 
 AKI_LANG_CODE = {
