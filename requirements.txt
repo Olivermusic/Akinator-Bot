@@ -3,5 +3,5 @@ akinator
 pymongo
 dnspython
 python-dotenv
-urllib3.contrib.appengine==13.13
+urllib3.contrib.appengine
 Request==13.13
