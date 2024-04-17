@@ -3,4 +3,4 @@ akinator
 pymongo
 dnspython
 python-dotenv
-Request==13.13
+Request
