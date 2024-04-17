@@ -3,3 +3,5 @@ akinator
 pymongo
 dnspython
 python-dotenv
+Request
+urllib3.contrib.appengine
